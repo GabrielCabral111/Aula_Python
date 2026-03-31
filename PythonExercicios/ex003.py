@@ -1,0 +1,16 @@
+n = input('Digite algo: ')
+
+print('Tipo:', type(n))
+
+print('É alfanumérico? ', n.isalnum())
+print('É alfabético? ', n.isalpha())
+print('É ASCII? ', n.isascii())
+print('É decimal? ', n.isdecimal())
+print('É dígito? ', n.isdigit())
+print('É identificador válido? ', n.isidentifier())
+print('Está em minúsculo? ', n.islower())
+print('É numérico? ', n.isnumeric())
+print('É imprimível? ', n.isprintable())
+print('Só tem espaços? ', n.isspace())
+print('Está em maiúsculo? ', n.isupper())
+print('Está capitalizada? ', n.istitle())
