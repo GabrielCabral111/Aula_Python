@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caec62fd-96b1-41a3-8e6d-cb78c15975a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonAulas/aula007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAulas/aula008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonAulas/aula009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pesquisa002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +52,8 @@
     "Python.aula002.executor": "Run",
     "Python.aula004.executor": "Run",
     "Python.aula007.executor": "Run",
+    "Python.aula008.executor": "Run",
+    "Python.aula009.executor": "Run",
     "Python.aula05.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
@@ -90,6 +97,19 @@
     "Python.ex051.executor": "Run",
     "Python.ex052.executor": "Run",
     "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
     "Python.ex20.executor": "Run",
     "Python.pesquisa002.executor": "Run",
     "Python.pesquisas001.executor": "Run",
